@@ -1,10 +1,14 @@
-# cliente-api
+# cliente-api 
+
+API ORIGINAL CRIADA POR [feltex](https://www.youtube.com/c/FeltexBr).
+
+Esta é uma versão com modificações feitas com base nas minha necessidades.
+Para mais vídeos e tutorias acesse o canal [feltex](https://www.youtube.com/c/FeltexBr)
 
   API para gerenciar os dados de Clientes. É possível fazer a inclusão, alteração, consulta, listagem e exclusão de clientes.
   Neste projeto mostraremos como armazenar arquivos no MySQL.
 
 
-Para mais vídeos e tutorias acesso o canal [feltex](https://www.youtube.com/c/FeltexBr)
 
 ## Pré-requisitos
 
