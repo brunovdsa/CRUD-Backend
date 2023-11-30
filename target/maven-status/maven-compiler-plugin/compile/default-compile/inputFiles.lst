@@ -1,0 +1,10 @@
+C:\Users\Pichau\.repos\CRUD-Backend\src\main\java\br\com\feltex\clienteapi\controller\dto\AtualizarClienteRequest.java
+C:\Users\Pichau\.repos\CRUD-Backend\src\main\java\br\com\feltex\clienteapi\data\CargaDados.java
+C:\Users\Pichau\.repos\CRUD-Backend\src\main\java\br\com\feltex\clienteapi\dao\ClienteRepository.java
+C:\Users\Pichau\.repos\CRUD-Backend\src\main\java\br\com\feltex\clienteapi\servico\ClienteService.java
+C:\Users\Pichau\.repos\CRUD-Backend\src\main\java\br\com\feltex\clienteapi\controller\dto\IncluirClienteRequest.java
+C:\Users\Pichau\.repos\CRUD-Backend\src\main\java\br\com\feltex\clienteapi\ClienteApiApplication.java
+C:\Users\Pichau\.repos\CRUD-Backend\src\main\java\br\com\feltex\clienteapi\controller\dto\IncluirClienteResponse.java
+C:\Users\Pichau\.repos\CRUD-Backend\src\main\java\br\com\feltex\clienteapi\modelo\Cliente.java
+C:\Users\Pichau\.repos\CRUD-Backend\src\main\java\br\com\feltex\clienteapi\exception\ClienteNaoEncontradoException.java
+C:\Users\Pichau\.repos\CRUD-Backend\src\main\java\br\com\feltex\clienteapi\controller\ClienteController.java

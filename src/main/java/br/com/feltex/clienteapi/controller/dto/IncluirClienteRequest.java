@@ -8,7 +8,8 @@ import lombok.Data;
 public class IncluirClienteRequest {
     private String nome;
     private String telefone;
-    private String matricula;
+    private String observacao;
+    private String tipoFornecedor;    
     private String email;
     private byte[] foto;
 }

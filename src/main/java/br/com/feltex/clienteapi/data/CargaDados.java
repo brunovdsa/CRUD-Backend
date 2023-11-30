@@ -38,6 +38,8 @@ public class CargaDados {
                 cliente.setId(Long.valueOf(x));
                 cliente.setNome(nome);
                 cliente.setTelefone("99662-554" + x);
+                cliente.setObservacao("");
+                cliente.setTipoFornecedor("");
                 cliente.setEmail(nome + "@feltex.com.br");
                 cliente.setFoto(foto);
                 cliente.setDataCadastro(Instant.now());

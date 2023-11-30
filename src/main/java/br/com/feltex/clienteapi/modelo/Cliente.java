@@ -13,8 +13,8 @@ public class Cliente {
     private Long id;
     private String nome;
     private String telefone;
-    @Column(unique = true)
-    private String matricula;
+    private String observacao;
+    private String tipoFornecedor;    
     @Column(unique = true)
     private String email;
     @Lob
