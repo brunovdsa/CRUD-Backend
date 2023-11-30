@@ -11,5 +11,4 @@ public class IncluirClienteRequest {
     private String observacao;
     private String tipoFornecedor;    
     private String email;
-    private byte[] foto;
 }

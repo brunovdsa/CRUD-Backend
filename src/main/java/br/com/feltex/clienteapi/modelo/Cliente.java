@@ -17,8 +17,6 @@ public class Cliente {
     private String tipoFornecedor;    
     @Column(unique = true)
     private String email;
-    @Lob
-    private byte[] foto;
     private Instant dataCadastro;
     private Instant ultimaAtualizacao;
 }

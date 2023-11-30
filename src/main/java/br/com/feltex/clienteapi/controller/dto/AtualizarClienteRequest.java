@@ -11,5 +11,4 @@ public class AtualizarClienteRequest {
     private String telefone;
     private String matricula;
     private String email;
-    private byte[] foto;
 }

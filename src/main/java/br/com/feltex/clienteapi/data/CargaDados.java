@@ -26,12 +26,7 @@ public class CargaDados {
     public void loadData() throws IOException {
 
         if (podeCarregarDados) {
-            for (int x = 1; x <= 8; x++) {
-
-                var foto = getClass()
-                        .getClassLoader()
-                        .getResourceAsStream("clientes/avatar" + x + ".png")
-                        .readAllBytes();
+            for (int x = 1; x <= 8; x++) {               
 
                 var cliente = new Cliente();
                 var nome = UUID.randomUUID().toString();
@@ -41,7 +36,6 @@ public class CargaDados {
                 cliente.setObservacao("");
                 cliente.setTipoFornecedor("");
                 cliente.setEmail(nome + "@feltex.com.br");
-                cliente.setFoto(foto);
                 cliente.setDataCadastro(Instant.now());
                 cliente.setUltimaAtualizacao(Instant.now());
                 clienteRepotirory.save(cliente);
