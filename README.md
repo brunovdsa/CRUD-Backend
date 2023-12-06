@@ -1,4 +1,6 @@
-# fornecedor-api 
+## **Desafio Gesplan**
+
+Projeto desenvolvido em conjunto com o projeto [Frontend](https://github.com/brunovdsa/CRUD-Frontend) para vaga de desenvolvedor frontend junior.
 
 API ORIGINAL CRIADA POR [feltex](https://www.youtube.com/c/FeltexBr).
 
